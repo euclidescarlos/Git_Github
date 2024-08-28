@@ -36,3 +36,24 @@ git add
 - Salva as alterações em preparação no diretório
 ```
 git commit
+```
+- Ignora o arquivo selecionado para que não seja salvo
+```
+git ignore
+```
+- Mostra o log, os ultimos commits feitos
+```
+git log
+```
+- Restaura os commits posteriores ao citado para ainda serem adicionados e salvados
+```
+git reset --soft (hash do commit)
+```
+- Restaura para o commmit selecionado, mas mantendo os arquivos posteriores a ele, podendo dar add e commit posteriormente
+```
+git reset --mixed (hash do commit)
+```
+-Apaga completamente os arquivos ou alterações feitos posteriormente ao commit selecionado
+```
+git reset --hard (hash do commit)
+```
