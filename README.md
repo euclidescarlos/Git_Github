@@ -5,7 +5,7 @@ Repositório onde vou colocar resumos e possíveis práticas do [Curso de Versio
 
 ## 🤖Resumos e Pontos importantes
 ### *Principais códigos no GIT*
-- Página de ajuda
+- Página de ajuda/suporte
 ```
 git
 ```
